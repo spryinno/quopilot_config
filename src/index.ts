@@ -134,7 +134,7 @@ VITE_GITHUB_URL=https://github.com/spryinno/quopilot-vite-2
 VITE_DOC_URL=https://docusaurus.io/
 
 VITE_SUPABASE_URL="${data.supabase.beta.url}"
-VITE_SUPABASE_KEY="${data.supabase.beta.serviceKey}"
+VITE_SUPABASE_KEY="${data.supabase.beta.anonKey}"
 
 # VITE_MAIL_AUTH_URL="${data.azure.function.dev.url + "/api"}"
 VITE_MAIL_AUTH_URL="${data.azure.function.beta.url + "/api"}"
